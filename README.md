@@ -1,5 +1,4 @@
-# Machine_Learning_one
-本人机器学习的第一个项目
+# Machine_Learning_one 本人机器学习的第一个项目
 import numpy as np
 import pandas as pd
 path='datas/household_power_consumption_1000.txt'
